@@ -1,0 +1,7 @@
+langchain
+streamlit
+sqlite-utils
+pandas
+markdown2
+openai
+python-dotenv

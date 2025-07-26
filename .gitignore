@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.env
+tasks.db
+*.sqlite3
+*.md
+*.csv
+
